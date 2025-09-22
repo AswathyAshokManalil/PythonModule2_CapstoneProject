@@ -67,8 +67,8 @@ The objective is to clean and preprocess the data, perform targeted analyses, an
 
 ---
 
-### 4.5 Correlation Between Age and Salary
-- Calculated the correlation coefficient between age and salary.  
+### 4.5 Relation Between Age and Salary
+-Find the relation  between age and salary.  
 
 **Visualization:**  
 - Scatter Plot: Shows the relationship between Age and Salary  
@@ -83,12 +83,6 @@ The objective is to clean and preprocess the data, perform targeted analyses, an
 5. There is a moderate relationship between age and salary — **mid-aged employees tend to earn more**.  
 
 ---
-
-## 6. Conclusion
-The analysis provided ABC Company with a detailed understanding of:  
-- Employee distribution across teams and positions  
-- Salary expenditure patterns  
-- Potential correlations between employee age and salary  
 
 These insights can support **strategic workforce planning** and **salary management decisions**.
 
